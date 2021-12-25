@@ -1,0 +1,15 @@
+C:\Users\MOHSIN ZAHOOR PEER\Desktop\StockAccountManagement\StockAccountManagement\bin\Debug\netcoreapp3.1\StockAccountManagement.exe
+C:\Users\MOHSIN ZAHOOR PEER\Desktop\StockAccountManagement\StockAccountManagement\bin\Debug\netcoreapp3.1\StockAccountManagement.deps.json
+C:\Users\MOHSIN ZAHOOR PEER\Desktop\StockAccountManagement\StockAccountManagement\bin\Debug\netcoreapp3.1\StockAccountManagement.runtimeconfig.json
+C:\Users\MOHSIN ZAHOOR PEER\Desktop\StockAccountManagement\StockAccountManagement\bin\Debug\netcoreapp3.1\StockAccountManagement.runtimeconfig.dev.json
+C:\Users\MOHSIN ZAHOOR PEER\Desktop\StockAccountManagement\StockAccountManagement\bin\Debug\netcoreapp3.1\StockAccountManagement.dll
+C:\Users\MOHSIN ZAHOOR PEER\Desktop\StockAccountManagement\StockAccountManagement\bin\Debug\netcoreapp3.1\StockAccountManagement.pdb
+C:\Users\MOHSIN ZAHOOR PEER\Desktop\StockAccountManagement\StockAccountManagement\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\MOHSIN ZAHOOR PEER\Desktop\StockAccountManagement\StockAccountManagement\obj\Debug\netcoreapp3.1\StockAccountManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOHSIN ZAHOOR PEER\Desktop\StockAccountManagement\StockAccountManagement\obj\Debug\netcoreapp3.1\StockAccountManagement.AssemblyInfoInputs.cache
+C:\Users\MOHSIN ZAHOOR PEER\Desktop\StockAccountManagement\StockAccountManagement\obj\Debug\netcoreapp3.1\StockAccountManagement.AssemblyInfo.cs
+C:\Users\MOHSIN ZAHOOR PEER\Desktop\StockAccountManagement\StockAccountManagement\obj\Debug\netcoreapp3.1\StockAccountManagement.csproj.CoreCompileInputs.cache
+C:\Users\MOHSIN ZAHOOR PEER\Desktop\StockAccountManagement\StockAccountManagement\obj\Debug\netcoreapp3.1\StockAccountManagement.csproj.CopyComplete
+C:\Users\MOHSIN ZAHOOR PEER\Desktop\StockAccountManagement\StockAccountManagement\obj\Debug\netcoreapp3.1\StockAccountManagement.dll
+C:\Users\MOHSIN ZAHOOR PEER\Desktop\StockAccountManagement\StockAccountManagement\obj\Debug\netcoreapp3.1\StockAccountManagement.pdb
+C:\Users\MOHSIN ZAHOOR PEER\Desktop\StockAccountManagement\StockAccountManagement\obj\Debug\netcoreapp3.1\StockAccountManagement.genruntimeconfig.cache

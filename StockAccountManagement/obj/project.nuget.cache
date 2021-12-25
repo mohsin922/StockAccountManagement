@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rcI5epBwPHF+GT+KD2XpojYTZyeFgoqJyXDt//+s9H4R+SUNJ8zPeSFWOsKJseKXjjwztSzSQ4jK+N41E7KgSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MOHSIN ZAHOOR PEER\\Desktop\\StockAccountManagement\\StockAccountManagement\\StockAccountManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MOHSIN ZAHOOR PEER\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\MOHSIN ZAHOOR PEER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
